@@ -1,0 +1,3 @@
+record(aSub, "asubTest"){
+	field(SNAM, "test_function")
+}
